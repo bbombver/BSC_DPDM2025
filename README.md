@@ -15,7 +15,7 @@
 ---
 
 ### 🧩 Chapter 1: Introduction  
-🔗 **Slides:** [01Intro](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=drive_link)  
+🔗 **Slides:** [01Intro](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=sharing)  
 
 **Topics Covered**
 - ✨ Why Data Mining?
@@ -31,7 +31,7 @@
 ---
 
 ### 📊 Chapter 2: Getting to Know Your Data  
-🔗 **Slides:** [02Data](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=drive_link)  
+🔗 **Slides:** [02Data](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=sharing)
 
 **Topics Covered**
 - 📊 Data Objects & Attributes  
@@ -42,7 +42,7 @@
 ---
 
 ### 🧹 Chapter 3: Data Preprocessing  
-🔗 **Slides:** [03Preprocessing](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=drive_link)    
+🔗 **Slides:** [03Preprocessing](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=sharing)
 
 **Topics Covered**
 - 🧹 Data Cleaning  
@@ -54,7 +54,7 @@
 ---
 
 ### 💡 Chapter 6: Frequent Patterns  
-🔗 **Slides:** [06FPBasic](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=drive_link)  
+🔗 **Slides:** [06FPBasic](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=sharing)
 
 **Topics Covered**
 - 💡 Concepts (Support, Confidence)  
@@ -66,7 +66,7 @@
 ---
 
 ### 🌳 Chapter 8: Classification (Basic)  
-🔗 **Slides:** [08ClassBasic](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=drive_link)  
+🔗 **Slides:** [08ClassBasic](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=sharing)
 
 **Topics Covered**
 - 🌳 Decision Tree  
@@ -78,7 +78,7 @@
 ---
 
 ### 🧠 Chapter 9: Classification (Advanced)  
-🔗 **Slides:** [09ClassAdvanced](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=drive_link)  
+🔗 **Slides:** [09ClassAdvanced](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=sharing)
 
 **Topics Covered**
 - 🕸️ Bayesian Network  
@@ -90,7 +90,7 @@
 ---
 
 ### 📍 Chapter 10: Clustering  
-🔗 **Slides:** [10ClusBasic](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=drive_link) 
+🔗 **Slides:** [10ClusBasic](https://drive.google.com/drive/folders/184D1zjMhQ-t-pQEsqWeYTeBUB36MgIun?usp=sharing)
 
 **Topics Covered**
 - 📍 k-means / k-medoids  
